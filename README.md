@@ -14,6 +14,7 @@ Code samples to accompany the book Adaptive Code Via C#, Korean Edition
 #### 제2장 ####
 | 예제 코드 번호 | 소스 코드 경로 |
 |:------------|:----------- |
+| 예제 2-2 | ch2-simple-dependency |
 | 예제 2-14 ~ 2-16 | ch2-service-discovery |
 | 예제 2-17, 2-18 | ch2-restful-service |
 
